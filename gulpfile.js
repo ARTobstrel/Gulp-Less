@@ -3,7 +3,6 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync').create();
 var less = require('gulp-less');
-var sass = require('gulp-sass');
 var notify = require('gulp-notify');
 var plumber = require('gulp-plumber');
 
